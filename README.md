@@ -1,4 +1,4 @@
-# 📦 Amazon Electronics Price & Rating Dashboard
+# 📦 Amazon Electronics Price, Rating & Discount Dashboard
 
 This end-to-end project extracts mobile product data from Amazon using Python web scraping and builds a dynamic Power BI dashboard to uncover insights into pricing, ratings, brand trends, and discount analysis.
 
